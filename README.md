@@ -9,7 +9,7 @@ daniel.dhartog@gmail.com
 London, UK
 ```
 ```
-https://github.com/velvetsnowman/CV/blob/master/README.md
+https://github.com/velvetsnowman/CurriculumVitae
 ```
 | [Projects](#projects) | [Skills](#skills) | [Personal Achievements](#personal-achievements) | [Education](#education) | [Experience](#experience) |
 
@@ -21,7 +21,7 @@ diverse cultures and social demographics which means I am highly adaptable and a
 collaborate in diverse working groups.
 
 In August 2015, I successfully opened a restaurant in Paris, France. To establish the business I negotiated the franchise terms;
-documented a details business plan to secure funding from an independent bank; identified
+documented a detailed business plan to secure funding from an independent bank; identified
 a premises and oversaw the conversion from retail shop to restaurant. During the three
 years that the restaurant traded I gained first-hand experience at managing and leading a
 team.
@@ -51,7 +51,7 @@ You can see all projects on my [GitHub][20]
 
 ## Skills
 
-#### Self-Drive - Leadership skills
+#### Self-Drive and Leadership 
 
 Having worked for the original Breakfast in America and developed an understating of the business model, I identified an opportunity to launch the first franchised Breakfast in America. Over a period of several months, providing direction and leadership to my lawyer, accountant, project manager, builders and suppliers the franchise was successfully launched.
 
@@ -103,7 +103,7 @@ Constant advertising to increase revenue and make our product more aware to the 
 
 ## Education
 
-**Maker's Academy** (May 2018 - present)
+**Maker's Academy** (May 2018 - October 2018)
 - A 16 week intensive bootcamp, #1 in the UK and Europe. With only a 10%-20% acceptance rate, the academy is known for its teachings of programming's best practices - the "do and dont's". They focus on:
 - object orientated programming,
 - Ruby, JavaScript
