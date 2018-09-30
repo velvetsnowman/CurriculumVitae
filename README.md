@@ -14,13 +14,13 @@ https://github.com/velvetsnowman/CurriculumVitae
 | [Projects](#projects) | [Skills](#skills) | [Personal Achievements](#personal-achievements) | [Education](#education) | [Experience](#experience) |
 
 With over 8 years of experience working in the hospitality industry in Australia, England
-and France I have developed strong communication skills and the ability to deliver in a
-time pressured environment. My passion for cuisine was developed over several years
-living and studying in multiple African countries. During my time in Africa, I was exposed to
+and France, I have developed strong communication skills and the ability to deliver in a
+time-pressured environment. My passion for cuisine was developed over several years
+living and studying in ten countries around the world. During my 14 years in Africa, I was exposed to
 diverse cultures and social demographics which means I am highly adaptable and able to
 collaborate in diverse working groups.
 
-In August 2015, I successfully opened a restaurant in Paris, France. To establish the business I negotiated the franchise terms;
+In 2015, I successfully opened a restaurant in Paris, France. To establish the business I negotiated the franchise terms;
 documented a detailed business plan to secure funding from an independent bank; identified
 a premises and oversaw the conversion from retail shop to restaurant. During the three
 years that the restaurant traded I gained first-hand experience at managing and leading a
@@ -45,7 +45,6 @@ Academy.
 |[Bowling Scorecard][16]   | One of my favourite projects. A bowling scorecard using the TDD approach | Javascript, jQuerey, HTML and CSS| Jasmine |
 |[vBook][17]| A group project creating a Facebook clone. Another group project I collaborated on is [pop-a-nolà][18] | Ruby, Rails, React,  | Rspec, Capybara |
 |[Jenkins-Manager](https://github.com/Jenkins-manager/Jenkins)|An intelligent personal assistant mobile application, utilising a [React Native](https://facebook.github.io/react-native/) frontend supported by a [Django MVC backend](https://www.djangoproject.com/). The application also employs machine learning via the [TensorFlow](https://www.tensorflow.org/) framework to offer a better and more customised user expirience|Python3, Django, TensorFlow, React|pyTest|
-
 
 You can see all projects on my [GitHub][20]
 
@@ -94,9 +93,9 @@ Constant advertising to increase revenue and make our product more aware to the 
 
 ## Personal Achievements
 
-- Owned my first business at 23, a company running a restaurant, focusing on quality american-themed comfort food, produced with the finest ingredients within France (fun fact: our beef was delivered fresh, twice a week from a quality-award-winning French cattle farm, over 800km away). My establishment allowed locals and tourists in the heart of Paris to 'walk into America' for a bite to eat and fully experience an authentic diner-inspired cuisine and atmosphere.
+- Owned my first business at 23, a company running a restaurant, focusing on quality american-themed comfort food. My establishment allowed locals and tourists in the heart of Paris to 'walk into America' and fully experience an authentic diner-inspired cuisine and atmosphere.
 - A bird's eye view photo of a variety of dishes from my restaurant was used as the homepage background screen of [HungryUp][21]'s first application release. The company later went on to obtain financing to become a top player in the French market, allowing customers to pre-order their drinks and meals online, as well as choose their tables before arriving at the chosen restaurant.
-- Helped create a flyer and mini-booklet for a non-profit organisation in southern-Africa, Zambia, focusing on helping the local population with mental health illnesses get the treatment and care they needed. My effort led to a huge charitable donation from a Danish firm which helped keep the organisation running.
+- Collaborated on creating a flyer and mini-booklet for a non-profit organisation in southern-Africa, Zambia, focusing on helping the local population with mental health illnesses get the treatment and care they needed. My effort led to a huge charitable donation from a Danish firm which helped keep the organisation running.
 - President's Award for Educational Excellence whilst attending the American International School of Ghana
 - Prefect (student leader) for all primary and secondary school classes, as well as House Captain for inter-house sporting competitions at Simba International Secondary School.
 - School volleyball and rugby captain as well as MVP at the national Zambian Secondary School rugby tournament.
