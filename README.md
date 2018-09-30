@@ -44,7 +44,7 @@ Academy.
 | [ThermoStat][12]   | My first TDD-driven web-page app built in Javascript using jquerey and event-listeners, using a [Weather API][13]| Javascript, jQuerey | Jasmine |
 |[Bowling Scorecard][16]   | One of my favourite projects. A bowling scorecard using the TDD approach | Javascript, jQuerey, HTML and CSS| Jasmine |
 |[vBook][17]| A group project creating a Facebook clone. Another group project I collaborated on is [pop-a-nolà][18] | Ruby, Rails, React,  | Rspec, Capybara |
-|[Jenkins-Manager(2018)](https://github.com/Jenkins-manager/Jenkins)|An intelligent personal assistant mobile application , utilising a [React Native](https://facebook.github.io/react-native/) frontend supported by a [Django MVC backend](https://www.djangoproject.com/). The application also employs machine learning via the [TensorFlow](https://www.tensorflow.org/) framework to offer a better and more customised user expirience|Python3/Django/TensorFlow, React|pyTest|
+|[Jenkins-Manager](https://github.com/Jenkins-manager/Jenkins)|An intelligent personal assistant mobile application, utilising a [React Native](https://facebook.github.io/react-native/) frontend supported by a [Django MVC backend](https://www.djangoproject.com/). The application also employs machine learning via the [TensorFlow](https://www.tensorflow.org/) framework to offer a better and more customised user expirience|Python3, Django, TensorFlow, React|pyTest|
 
 
 You can see all projects on my [GitHub][20]
