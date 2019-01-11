@@ -8,10 +8,7 @@ daniel.dhartog@gmail.com
 ```
 London, UK
 ```
-```
-https://github.com/velvetsnowman/CurriculumVitae
-```
-| [Projects](#programming-projects) | [Skills](#skills) | [Personal Achievements](#personal-achievements) | [Education](#education) | [Experience](#experience) |
+| [Skills](#skills) | [Personal Achievements](#personal-achievements) | [Education](#education) | [Experience](#experience) |
 
 With over 8 years of experience working in the hospitality industry in Australia, England
 and France, I have developed strong communication skills and the ability to deliver in a
@@ -34,17 +31,6 @@ London to attend a 16 week coding boot camp to study software development at Mak
 Academy.
 
 ## Programming Projects
-
-| Project               | Description                                                  | Technologies   | Testing |
-| --------------------- |:-------------------------------------------------------------| :------------- | :-------|
-| [The Airport command-line app][2]   | My first project, focusing on TDD and using programming's basic core features such as objects, methods, mocking and encapsulation. (also completed in JavaScript-ES5 [here][3]. A command line app to land and take off planes from an airport depending on weather quality. Similar projects: [OysterCard][4], [BorisBikes][5] | Ruby | Rspec |
-| [Take Away command-line app][6]   | A command line app focused on TDD, writing unit tests, mocking and dependency injection. Similar projects: [Checkout][7], [NotesApp][8] | Ruby | RSpec|
-| [Rock Paper Scissors][9]   | A single player web app, using MVC model, web templating with HTML/CSS, and following the TDD approach including UI functionality tests. A project to understand more on 'how the web works' Similar: [Battle][10], [Bookmark Manager][15] | Ruby, Sinatra | Rspec, Capybara |
-| [Chitter][11]   | A web page app, a simple Twitter clone that will allow the users to post messages to a public stream, using GET and POST requests and PostgreSQL | Ruby, Sinatra, PG | Capybara, Rspec |
-| [ThermoStat][12]   | My first TDD-driven web-page app built in Javascript using jquery and event-listeners, using a [Weather API][13]| Javascript, jQuery | Jasmine |
-|[Bowling Scorecard][16]   | One of my favourite projects. A bowling scorecard using the TDD approach | Javascript, jQuery, HTML and CSS| Jasmine |
-|[vBook][17]| A group project creating a Facebook clone. Another group project I collaborated on is [Pop-a-Nolà][18] | Ruby, Rails, React,  | Rspec, Capybara |
-|[Jenkins-Manager](https://github.com/Jenkins-manager/Jenkins)|An intelligent personal assistant mobile application, utilising a React-Native frontend supported by a Django MVC backend. The application also employs machine learning via the [TensorFlow](https://www.tensorflow.org/) framework to offer a better and more customised user expirience|Python3, Django, TensorFlow, React|pyTest|
 
 You can see all projects on my [GitHub][20]
 
@@ -103,16 +89,11 @@ Constant advertising to increase revenue and make our product more aware to the 
 ## Education
 
 **Maker's Academy** (May 2018 - October 2018)
-A 16 week intensive bootcamp, #1 in the UK and Europe. With only a 10%-20% acceptance rate, the academy is known for its teachings of programming's best practices - the "do and donts". The curriculum focused on:
-- Object Orientated Programming,
-- Ruby, JavaScript,
-- Ruby on Rails, React, variety of frameworks,
-- databases and querying,
-- Agile techniques,
-- Test Driven Development, Behaviour Driven Development,
-- web development, html/css styling,
-- pair-programming,
-- group projects, resembling a real-world atmosphere with: git collaboration (merge, branching, pull requests..), retrospectives, research, task allocation to each 'ticket' of a project, diagramming, etc.
+- 16 week intensive programming bootcamp
+- Ruby, JavaScript
+- Databases and querying
+- Test Driven Development, Behaviour Driven Development, Object Orientated Programming
+- Pair-programming
 
 #### Simba International Secondary School (2005 - 2009)
 - 9 GCSEs: Biology (A), Business Studies (A), English (A), French (A), Geography (A), Information Technology (A), Mathematics (A), Physics (A) and English Literature (B)
@@ -120,7 +101,10 @@ A 16 week intensive bootcamp, #1 in the UK and Europe. With only a 10%-20% accep
 
 ## Experience
 
-**Bill's, London UK** (July 2018 - present)
+**Exceedra Software Ltd, London UK** (November 2018 - present)
+- Technical Consultant
+
+**Bill's, London UK** (July 2018 - January 2019)
 - Part time work whilst studying at [Makers Academy][1]
 - Chef de Partie
 
