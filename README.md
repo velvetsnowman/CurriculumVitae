@@ -89,7 +89,7 @@ Constant advertising to increase revenue and make our product more aware to the 
 ## Education
 
 **Maker's Academy** (May 2018 - October 2018)
-- 16 week intensive programming bootcamp
+- [16 week intensive programming bootcamp][1]
 - Ruby, JavaScript
 - Databases and querying
 - Test Driven Development, Behaviour Driven Development, Object Orientated Programming
