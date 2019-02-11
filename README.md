@@ -8,7 +8,7 @@ daniel.dhartog@gmail.com
 ```
 London, UK
 ```
-| [Skills](#skills) | [Personal Achievements](#personal-achievements) | [Education](#education) | [Experience](#experience) |
+| [Skills](#skills) | [Education](#education) | [Experience](#experience) |
 
 With over 8 years of experience working in the hospitality industry in Australia, England
 and France, I have developed strong communication skills and the ability to deliver in a
@@ -29,10 +29,6 @@ Observing the impact of technology on an industry I am passionate about, the hos
 industry, triggered my interest to better understand technology. I relocated from Paris to
 London to attend a 16 week coding boot camp to study software development at Makers
 Academy.
-
-## Programming Projects
-
-You can see all projects on my [GitHub][20]
 
 ## Skills
 
@@ -77,15 +73,6 @@ were maintained at the expected level
 
 Constant advertising to increase revenue and make our product more aware to the public and to increase revenue. Communicated with clients base on new products, deals, and changes. Used a variety of advertising techniques and platforms, from social media to paper-based publicity.
 
-## Personal Achievements
-
-- Owned my first business at 23, a company running a restaurant, focusing on quality american-themed comfort food. My establishment allowed locals and tourists in the heart of Paris to 'walk into America' and fully experience an authentic diner-inspired cuisine and atmosphere.
-- A bird's eye view photo of a variety of dishes from my restaurant was used as the homepage background screen of [HungryUp][21]'s first application release. The company later went on to obtain financing to become a top player in the French market, allowing customers to pre-order their drinks and meals online, as well as choose their tables before arriving at the chosen restaurant.
-- Collaborated on creating a flyer and mini-booklet for a non-profit organisation in southern-Africa, Zambia, focusing on helping the local population with mental health illnesses get the treatment and care they needed. My effort led to a huge charitable donation from a Danish firm which helped keep the organisation running.
-- President's Award for Educational Excellence whilst attending the American International School of Ghana
-- Prefect (student leader) for all primary and secondary school classes, as well as House Captain for inter-house sporting competitions at Simba International Secondary School.
-- School volleyball and rugby captain as well as MVP at the national Zambian Secondary School rugby tournament.
-
 ## Education
 
 **Maker's Academy** (May 2018 - October 2018)
@@ -113,34 +100,10 @@ Constant advertising to increase revenue and make our product more aware to the 
 - Head Chef
 
 **Breakfast in America 2, Paris France** (June 2011 - July 2015)   
-- Chef de Partie (first 6 months)
+- Chef de Partie (6 months)
 - Head Chef
 
 **The Old Swan Brewery, Perth Australia** (October 2010 - January 2011)    
 - Chef de Partie
 
 [1]: https://makers.tech/
-[2]: https://github.com/velvetsnowman/airport_challenge
-[3]: https://github.com/velvetsnowman/airportChallengeJS
-[4]: https://github.com/velvetsnowman/oystercard
-[5]: https://github.com/velvetsnowman/pairingchallenges2
-[6]: https://github.com/velvetsnowman/Restaurant
-[7]: https://github.com/velvetsnowman/checkout
-[8]: https://github.com/velvetsnowman/notesapp
-[9]: https://github.com/velvetsnowman/rps-challenge
-[10]: https://github.com/velvetsnowman/battle
-[11]: https://github.com/velvetsnowman/chitter-challenge
-[12]: https://github.com/velvetsnowman/thermostat_js
-[13]: https://openweathermap.org/api
-[14]: https://github.com/velvetsnowman/birthday_greeter
-[15]: https://github.com/velvetsnowman/bookmark
-[16]: https://github.com/velvetsnowman/bowling-challenge
-[17]: https://github.com/Team-Visage/vBook
-[18]: https://github.com/velvetsnowman/pop-a-nola
-
-
-
-[20]: https://github.com/velvetsnowman?tab=repositories
-[21]: https://www.hungryup.co/
-[22]: https://en.wikipedia.org/wiki/11/22/63
-[23]: https://en.wikipedia.org/wiki/The_Stand
